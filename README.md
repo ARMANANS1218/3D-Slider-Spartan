@@ -21,9 +21,3 @@ This is a visually engaging, animated 3D image slider designed with CSS and Java
 - CSS3
 - JavaScript
 - [Optional] A live server to view the project locally
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-
