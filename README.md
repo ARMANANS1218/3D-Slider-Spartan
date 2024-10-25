@@ -12,7 +12,7 @@ This is a visually engaging, animated 3D image slider designed with CSS and Java
 - Customizable image content and transitions
 
 ## Preview
-![Slider Screenshot](./images/screenshot.png)
+![Slider Screenshot](images/Screenshot.png)
 
 ## Getting Started
 
